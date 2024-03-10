@@ -1,0 +1,14 @@
+### Vivado ###
+
+#Exclude all
+*
+
+!*/
+!.gitignore
+
+!*/constrs_1/new/*
+!*/sim_1/new/*
+!*/sources_1/new/*
+!*/sim_1/imports/*/*
+!*/sources_1/imports/*/*
+
